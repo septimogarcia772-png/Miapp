@@ -1,0 +1,5 @@
+{
+  "name": "Text Splitter Pro",
+  "description": "Una aplicación elegante para dividir archivos .docx en fragmentos de 4950 caracteres con lógica de salto inteligente, modo nocturno y conteo de caracteres.",
+  "requestFramePermissions": []
+}
